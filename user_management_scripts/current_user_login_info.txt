@@ -1,0 +1,2 @@
+Login Name: nobody, UID: 65534
+Login Name: ubuntu, UID: 1000
