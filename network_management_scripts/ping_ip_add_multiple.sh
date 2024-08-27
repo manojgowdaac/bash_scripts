@@ -34,6 +34,6 @@ fi
 while IFS= read -r machine_ip
 do
 	check_connectivity $machine_ip
-done<$ip_input_file
+done<"$ip_input_file"
 
 # in command line provide the file name: ip_input_file.txt this file contains the multiple ip address in it..
