@@ -1,0 +1,10 @@
+Starting selective data transfer from s3://manoj-server-side-1 to s3://manoj-client-side-1
+Transferring main-folder/manoj.txt
+Verifying the data transfer...
+Verification failed for main-folder/manoj.txt. Source and destination sizes do not match.
+Starting upload of /root/test_dir/manoj.txt to s3://main-server-at-sydney/main-folder/
+Completed 251 Bytes/251 Bytes (4.3 KiB/s) with 1 file(s) remainingupload: ../../test_dir/manoj.txt to s3://main-server-at-sydney/main-folder/manoj.txt
+Upload successful!!!... File /root/test_dir/manoj.txt is now in s3://main-server-at-sydney/main-folder/
+Starting upload of /root/test_dir/manoj.txt to s3://main-server-at-sydney/main-folder/
+Completed 251 Bytes/251 Bytes (4.3 KiB/s) with 1 file(s) remainingupload: ../../test_dir/manoj.txt to s3://main-server-at-sydney/main-folder/manoj.txt
+Upload successful!!!... File /root/test_dir/manoj.txt is now in s3://main-server-at-sydney/main-folder/
