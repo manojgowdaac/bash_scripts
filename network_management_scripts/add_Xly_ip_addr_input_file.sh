@@ -7,7 +7,7 @@
 INPUT_FILE="ip_addresses.txt"
 
 # Network interface to add IP addresses to (e.g., eth0, ens5, enX0 etc.)
-echo "Provide nnetwork interface...(e.g., eth0, ens5, enX0 etc.)"
+echo "Provide network interface...(e.g., eth0, ens5, enX0 etc.)"
 read interface
 
 # Function to add an IP address to the network interface
